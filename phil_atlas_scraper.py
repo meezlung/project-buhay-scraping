@@ -76,3 +76,13 @@ else:
 # Print the barangay links as JSON
 import json
 print(json.dumps(barangay_links, indent=4))
+
+# Write the barangay links to a CSV file
+import csv
+with open('barangay_links.csv', 'w', newline='') as csvfile:
+    fieldnames = barangay_links[0].keys()
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    writer.writeheader()
+    for barangay_link in barangay_links:
+        writer.writerow(barangay_link)
