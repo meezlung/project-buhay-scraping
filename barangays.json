@@ -1,7 +1,7 @@
 [
    {
       "barangay_name": "Alicia",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 6527,
       "population_data_2020": 6119,
       "household_population_2015": 6527,
@@ -10,7 +10,7 @@
    },
    {
       "barangay_name": "Amihan",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 4788,
       "population_data_2020": 3513,
       "household_population_2015": 4788,
@@ -19,7 +19,7 @@
    },
    {
       "barangay_name": "Apolonio Samson",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 38583,
       "population_data_2020": 33629,
       "household_population_2015": 38514,
@@ -28,7 +28,7 @@
    },
    {
       "barangay_name": "Aurora",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 5636,
       "population_data_2020": 4221,
       "household_population_2015": 5636,
@@ -37,7 +37,7 @@
    },
    {
       "barangay_name": "Baesa",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 61278,
       "population_data_2020": 55328,
       "household_population_2015": 61244,
@@ -46,7 +46,7 @@
    },
    {
       "barangay_name": "Bagbag",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 56936,
       "population_data_2020": 64653,
       "household_population_2015": 55746,
@@ -55,7 +55,7 @@
    },
    {
       "barangay_name": "Bagong Lipunan ng Crame",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 14996,
       "population_data_2020": 13630,
       "household_population_2015": 14834,
@@ -64,7 +64,7 @@
    },
    {
       "barangay_name": "Bagong Pag-asa",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 32267,
       "population_data_2020": 29389,
       "household_population_2015": 32267,
@@ -73,7 +73,7 @@
    },
    {
       "barangay_name": "Bagong Silangan",
-      "district_number": -1,
+      "district_number": 2,
       "population_data_2015": 88299,
       "population_data_2020": 106886,
       "household_population_2015": 88287,
@@ -82,7 +82,7 @@
    },
    {
       "barangay_name": "Bagumbayan",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 13832,
       "population_data_2020": 22147,
       "household_population_2015": 13832,
@@ -91,7 +91,7 @@
    },
    {
       "barangay_name": "Bagumbuhay",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 6767,
       "population_data_2020": 6681,
       "household_population_2015": 6650,
@@ -100,7 +100,7 @@
    },
    {
       "barangay_name": "Bahay Toro",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 70774,
       "population_data_2020": 59639,
       "household_population_2015": 70605,
@@ -109,7 +109,7 @@
    },
    {
       "barangay_name": "Balingasa",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 20609,
       "population_data_2020": 19260,
       "household_population_2015": 20595,
@@ -118,7 +118,7 @@
    },
    {
       "barangay_name": "Balong Bato",
-      "district_number": -1,
+      "district_number": 2,
       "population_data_2015": 8228,
       "population_data_2020": 6991,
       "household_population_2015": 8228,
@@ -127,7 +127,7 @@
    },
    {
       "barangay_name": "Batasan Hills",
-      "district_number": -1,
+      "district_number": 2,
       "population_data_2015": 161409,
       "population_data_2020": 166572,
       "household_population_2015": 161352,
@@ -136,7 +136,7 @@
    },
    {
       "barangay_name": "Bayanihan",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 1222,
       "population_data_2020": 613,
       "household_population_2015": 1222,
@@ -145,7 +145,7 @@
    },
    {
       "barangay_name": "Blue Ridge A",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 1730,
       "population_data_2020": 1534,
       "household_population_2015": 1730,
@@ -154,7 +154,7 @@
    },
    {
       "barangay_name": "Blue Ridge B",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 1701,
       "population_data_2020": 1071,
       "household_population_2015": 1701,
@@ -163,7 +163,7 @@
    },
    {
       "barangay_name": "Botocan",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 8234,
       "population_data_2020": 7501,
       "household_population_2015": 7631,
@@ -172,7 +172,7 @@
    },
    {
       "barangay_name": "Bungad",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 8057,
       "population_data_2020": 7014,
       "household_population_2015": 8057,
@@ -181,7 +181,7 @@
    },
    {
       "barangay_name": "Camp Aguinaldo",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 4977,
       "population_data_2020": 3269,
       "household_population_2015": 4971,
@@ -190,7 +190,7 @@
    },
    {
       "barangay_name": "Capri",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 14587,
       "population_data_2020": 12903,
       "household_population_2015": 14587,
@@ -199,7 +199,7 @@
    },
    {
       "barangay_name": "Central",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 17590,
       "population_data_2020": 19331,
       "household_population_2015": 17392,
@@ -208,7 +208,7 @@
    },
    {
       "barangay_name": "Claro",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 4432,
       "population_data_2020": 3885,
       "household_population_2015": 4432,
@@ -217,7 +217,7 @@
    },
    {
       "barangay_name": "Commonwealth",
-      "district_number": -1,
+      "district_number": 2,
       "population_data_2015": 198285,
       "population_data_2020": 213229,
       "household_population_2015": 198235,
@@ -226,7 +226,7 @@
    },
    {
       "barangay_name": "Culiat",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 74304,
       "population_data_2020": 67804,
       "household_population_2015": 74208,
@@ -235,7 +235,7 @@
    },
    {
       "barangay_name": "Damar",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 1646,
       "population_data_2020": 952,
       "household_population_2015": 1644,
@@ -244,7 +244,7 @@
    },
    {
       "barangay_name": "Damayan",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 8716,
       "population_data_2020": 6007,
       "household_population_2015": 8716,
@@ -253,7 +253,7 @@
    },
    {
       "barangay_name": "Damayang Lagi",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 18599,
       "population_data_2020": 19466,
       "household_population_2015": 18431,
@@ -262,7 +262,7 @@
    },
    {
       "barangay_name": "Del Monte",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 12185,
       "population_data_2020": 10595,
       "household_population_2015": 11795,
@@ -271,7 +271,7 @@
    },
    {
       "barangay_name": "Dioquino Zobel",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 1887,
       "population_data_2020": 1805,
       "household_population_2015": 1887,
@@ -280,7 +280,7 @@
    },
    {
       "barangay_name": "Don Manuel",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 3753,
       "population_data_2020": 1728,
       "household_population_2015": 3735,
@@ -289,7 +289,7 @@
    },
    {
       "barangay_name": "Do\u00f1a Imelda",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 16915,
       "population_data_2020": 11724,
       "household_population_2015": 16806,
@@ -298,7 +298,7 @@
    },
    {
       "barangay_name": "Do\u00f1a Josefa",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 2909,
       "population_data_2020": 1857,
       "household_population_2015": 2878,
@@ -307,7 +307,7 @@
    },
    {
       "barangay_name": "Duyan-duyan",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 3870,
       "population_data_2020": 3357,
       "household_population_2015": 3870,
@@ -316,7 +316,7 @@
    },
    {
       "barangay_name": "E. Rodriguez",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 19594,
       "population_data_2020": 17363,
       "household_population_2015": 19278,
@@ -325,7 +325,7 @@
    },
    {
       "barangay_name": "East Kamias",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 6206,
       "population_data_2020": 6395,
       "household_population_2015": 6206,
@@ -334,7 +334,7 @@
    },
    {
       "barangay_name": "Escopa I",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 2221,
       "population_data_2020": 2110,
       "household_population_2015": 2221,
@@ -343,7 +343,7 @@
    },
    {
       "barangay_name": "Escopa II",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 1766,
       "population_data_2020": 1683,
       "household_population_2015": 1766,
@@ -352,7 +352,7 @@
    },
    {
       "barangay_name": "Escopa III",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 8554,
       "population_data_2020": 7985,
       "household_population_2015": 8554,
@@ -361,7 +361,7 @@
    },
    {
       "barangay_name": "Escopa IV",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 1919,
       "population_data_2020": 1837,
       "household_population_2015": 1919,
@@ -370,7 +370,7 @@
    },
    {
       "barangay_name": "Fairview",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 53151,
       "population_data_2020": 61813,
       "household_population_2015": 52780,
@@ -379,7 +379,7 @@
    },
    {
       "barangay_name": "Greater Lagro",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 22764,
       "population_data_2020": 23569,
       "household_population_2015": 22590,
@@ -388,7 +388,7 @@
    },
    {
       "barangay_name": "Gulod",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 53325,
       "population_data_2020": 62542,
       "household_population_2015": 53321,
@@ -397,7 +397,7 @@
    },
    {
       "barangay_name": "Holy Spirit",
-      "district_number": -1,
+      "district_number": 2,
       "population_data_2015": 110447,
       "population_data_2020": 111901,
       "household_population_2015": 110325,
@@ -406,7 +406,7 @@
    },
    {
       "barangay_name": "Horseshoe",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 3004,
       "population_data_2020": 2866,
       "household_population_2015": 3004,
@@ -415,7 +415,7 @@
    },
    {
       "barangay_name": "Immaculate Concepcion",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 8670,
       "population_data_2020": 8169,
       "household_population_2015": 8496,
@@ -424,7 +424,7 @@
    },
    {
       "barangay_name": "Kaligayahan",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 54576,
       "population_data_2020": 60462,
       "household_population_2015": 54514,
@@ -433,7 +433,7 @@
    },
    {
       "barangay_name": "Kalusugan",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 1745,
       "population_data_2020": 4786,
       "household_population_2015": 1662,
@@ -442,7 +442,7 @@
    },
    {
       "barangay_name": "Kamuning",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 15661,
       "population_data_2020": 14258,
       "household_population_2015": 12761,
@@ -451,7 +451,7 @@
    },
    {
       "barangay_name": "Katipunan",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 2818,
       "population_data_2020": 10508,
       "household_population_2015": 2818,
@@ -460,7 +460,7 @@
    },
    {
       "barangay_name": "Kaunlaran",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 8167,
       "population_data_2020": 12387,
       "household_population_2015": 7990,
@@ -469,7 +469,7 @@
    },
    {
       "barangay_name": "Kristong Hari",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 4089,
       "population_data_2020": 6055,
       "household_population_2015": 3948,
@@ -478,7 +478,7 @@
    },
    {
       "barangay_name": "Krus na Ligas",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 21513,
       "population_data_2020": 21287,
       "household_population_2015": 21457,
@@ -487,7 +487,7 @@
    },
    {
       "barangay_name": "Laging Handa",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 6750,
       "population_data_2020": 4812,
       "household_population_2015": 6669,
@@ -496,7 +496,7 @@
    },
    {
       "barangay_name": "Libis",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 4018,
       "population_data_2020": 4208,
       "household_population_2015": 4007,
@@ -505,7 +505,7 @@
    },
    {
       "barangay_name": "Lourdes",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 4813,
       "population_data_2020": 4523,
       "household_population_2015": 4687,
@@ -514,7 +514,7 @@
    },
    {
       "barangay_name": "Loyola Heights",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 18884,
       "population_data_2020": 21140,
       "household_population_2015": 17356,
@@ -523,7 +523,7 @@
    },
    {
       "barangay_name": "Maharlika",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 4425,
       "population_data_2020": 4349,
       "household_population_2015": 4425,
@@ -532,7 +532,7 @@
    },
    {
       "barangay_name": "Malaya",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 4109,
       "population_data_2020": 2605,
       "household_population_2015": 4097,
@@ -541,7 +541,7 @@
    },
    {
       "barangay_name": "Mangga",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 1158,
       "population_data_2020": 913,
       "household_population_2015": 1158,
@@ -550,7 +550,7 @@
    },
    {
       "barangay_name": "Manresa",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 21413,
       "population_data_2020": 17224,
       "household_population_2015": 21345,
@@ -559,7 +559,7 @@
    },
    {
       "barangay_name": "Mariana",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 11227,
       "population_data_2020": 11967,
       "household_population_2015": 10488,
@@ -568,7 +568,7 @@
    },
    {
       "barangay_name": "Mariblo",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 4078,
       "population_data_2020": 3433,
       "household_population_2015": 4078,
@@ -577,7 +577,7 @@
    },
    {
       "barangay_name": "Marilag",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 9812,
       "population_data_2020": 12555,
       "household_population_2015": 9804,
@@ -586,7 +586,7 @@
    },
    {
       "barangay_name": "Masagana",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 4421,
       "population_data_2020": 4166,
       "household_population_2015": 4411,
@@ -595,7 +595,7 @@
    },
    {
       "barangay_name": "Masambong",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 12841,
       "population_data_2020": 8800,
       "household_population_2015": 12841,
@@ -604,7 +604,7 @@
    },
    {
       "barangay_name": "Matandang Balara",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 71022,
       "population_data_2020": 69475,
       "household_population_2015": 70985,
@@ -613,7 +613,7 @@
    },
    {
       "barangay_name": "Milagrosa",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 6130,
       "population_data_2020": 6775,
       "household_population_2015": 6130,
@@ -622,7 +622,7 @@
    },
    {
       "barangay_name": "N. S. Amoranto",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 6859,
       "population_data_2020": 5952,
       "household_population_2015": 6859,
@@ -631,7 +631,7 @@
    },
    {
       "barangay_name": "Nagkaisang Nayon",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 49048,
       "population_data_2020": 53781,
       "household_population_2015": 49048,
@@ -640,7 +640,7 @@
    },
    {
       "barangay_name": "Nayong Kanluran",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 2428,
       "population_data_2020": 2456,
       "household_population_2015": 2428,
@@ -649,7 +649,7 @@
    },
    {
       "barangay_name": "New Era",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 13365,
       "population_data_2020": 14105,
       "household_population_2015": 11451,
@@ -658,7 +658,7 @@
    },
    {
       "barangay_name": "North Fairview",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 41154,
       "population_data_2020": 44408,
       "household_population_2015": 41141,
@@ -667,7 +667,7 @@
    },
    {
       "barangay_name": "Novaliches Proper",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 15381,
       "population_data_2020": 15468,
       "household_population_2015": 15362,
@@ -676,7 +676,7 @@
    },
    {
       "barangay_name": "Obrero",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 8269,
       "population_data_2020": 9500,
       "household_population_2015": 8269,
@@ -685,7 +685,7 @@
    },
    {
       "barangay_name": "Old Capitol Site",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 1192,
       "population_data_2020": 1319,
       "household_population_2015": 1192,
@@ -694,7 +694,7 @@
    },
    {
       "barangay_name": "Paang Bundok",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 5643,
       "population_data_2020": 4806,
       "household_population_2015": 5599,
@@ -703,7 +703,7 @@
    },
    {
       "barangay_name": "Pag-ibig sa Nayon",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 5441,
       "population_data_2020": 5918,
       "household_population_2015": 5441,
@@ -712,7 +712,7 @@
    },
    {
       "barangay_name": "Paligsahan",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 5611,
       "population_data_2020": 3518,
       "household_population_2015": 5611,
@@ -721,7 +721,7 @@
    },
    {
       "barangay_name": "Paltok",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 17342,
       "population_data_2020": 18124,
       "household_population_2015": 17281,
@@ -730,7 +730,7 @@
    },
    {
       "barangay_name": "Pansol",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 34240,
       "population_data_2020": 35254,
       "household_population_2015": 34202,
@@ -739,7 +739,7 @@
    },
    {
       "barangay_name": "Paraiso",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 3790,
       "population_data_2020": 3537,
       "household_population_2015": 3790,
@@ -748,7 +748,7 @@
    },
    {
       "barangay_name": "Pasong Putik Proper",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 35135,
       "population_data_2020": 39896,
       "household_population_2015": 35063,
@@ -757,7 +757,7 @@
    },
    {
       "barangay_name": "Pasong Tamo",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 103100,
       "population_data_2020": 110738,
       "household_population_2015": 102879,
@@ -766,7 +766,7 @@
    },
    {
       "barangay_name": "Payatas",
-      "district_number": -1,
+      "district_number": 2,
       "population_data_2015": 130333,
       "population_data_2020": 139740,
       "household_population_2015": 130277,
@@ -775,7 +775,7 @@
    },
    {
       "barangay_name": "Phil-Am",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 2673,
       "population_data_2020": 2524,
       "household_population_2015": 2667,
@@ -784,7 +784,7 @@
    },
    {
       "barangay_name": "Pinagkaisahan",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 6929,
       "population_data_2020": 4366,
       "household_population_2015": 6922,
@@ -793,7 +793,7 @@
    },
    {
       "barangay_name": "Pinyahan",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 27653,
       "population_data_2020": 21868,
       "household_population_2015": 27383,
@@ -802,7 +802,7 @@
    },
    {
       "barangay_name": "Project 6",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 15255,
       "population_data_2020": 11899,
       "household_population_2015": 15223,
@@ -811,7 +811,7 @@
    },
    {
       "barangay_name": "Quirino 2-A",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 5520,
       "population_data_2020": 4622,
       "household_population_2015": 5520,
@@ -820,7 +820,7 @@
    },
    {
       "barangay_name": "Quirino 2-B",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 3612,
       "population_data_2020": 3938,
       "household_population_2015": 3612,
@@ -829,7 +829,7 @@
    },
    {
       "barangay_name": "Quirino 2-C",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 2830,
       "population_data_2020": 3189,
       "household_population_2015": 2830,
@@ -838,7 +838,7 @@
    },
    {
       "barangay_name": "Quirino 3-A",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 1141,
       "population_data_2020": 1070,
       "household_population_2015": 1141,
@@ -847,7 +847,7 @@
    },
    {
       "barangay_name": "Ramon Magsaysay",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 16281,
       "population_data_2020": 14321,
       "household_population_2015": 16271,
@@ -856,7 +856,7 @@
    },
    {
       "barangay_name": "Roxas",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 16060,
       "population_data_2020": 10670,
       "household_population_2015": 16050,
@@ -865,7 +865,7 @@
    },
    {
       "barangay_name": "Sacred Heart",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 8282,
       "population_data_2020": 6089,
       "household_population_2015": 8266,
@@ -874,7 +874,7 @@
    },
    {
       "barangay_name": "Saint Ignatius",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 2005,
       "population_data_2020": 2054,
       "household_population_2015": 2005,
@@ -883,7 +883,7 @@
    },
    {
       "barangay_name": "Saint Peter",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 4550,
       "population_data_2020": 4049,
       "household_population_2015": 4539,
@@ -892,7 +892,7 @@
    },
    {
       "barangay_name": "Salvacion",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 8056,
       "population_data_2020": 6681,
       "household_population_2015": 8056,
@@ -901,7 +901,7 @@
    },
    {
       "barangay_name": "San Agustin",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 22423,
       "population_data_2020": 25355,
       "household_population_2015": 22423,
@@ -910,7 +910,7 @@
    },
    {
       "barangay_name": "San Antonio",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 25043,
       "population_data_2020": 22229,
       "household_population_2015": 25043,
@@ -919,7 +919,7 @@
    },
    {
       "barangay_name": "San Bartolome",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 45188,
       "population_data_2020": 51148,
       "household_population_2015": 45049,
@@ -928,7 +928,7 @@
    },
    {
       "barangay_name": "San Isidro",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 8578,
       "population_data_2020": 6550,
       "household_population_2015": 8578,
@@ -937,7 +937,7 @@
    },
    {
       "barangay_name": "San Isidro Labrador",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 7181,
       "population_data_2020": 6247,
       "household_population_2015": 7181,
@@ -946,7 +946,7 @@
    },
    {
       "barangay_name": "San Jose",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 6271,
       "population_data_2020": 5844,
       "household_population_2015": 6271,
@@ -955,7 +955,7 @@
    },
    {
       "barangay_name": "San Martin de Porres",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 12315,
       "population_data_2020": 11632,
       "household_population_2015": 12315,
@@ -964,7 +964,7 @@
    },
    {
       "barangay_name": "San Roque",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 20095,
       "population_data_2020": 19093,
       "household_population_2015": 20090,
@@ -973,7 +973,7 @@
    },
    {
       "barangay_name": "San Vicente",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 7274,
       "population_data_2020": 7160,
       "household_population_2015": 7274,
@@ -982,7 +982,7 @@
    },
    {
       "barangay_name": "Sangandaan",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 24061,
       "population_data_2020": 21061,
       "household_population_2015": 24047,
@@ -991,7 +991,7 @@
    },
    {
       "barangay_name": "Santa Cruz",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 4784,
       "population_data_2020": 3945,
       "household_population_2015": 4746,
@@ -1000,7 +1000,7 @@
    },
    {
       "barangay_name": "Santa Lucia",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 25577,
       "population_data_2020": 28215,
       "household_population_2015": 25561,
@@ -1009,7 +1009,7 @@
    },
    {
       "barangay_name": "Santa Monica",
-      "district_number": -1,
+      "district_number": 5,
       "population_data_2015": 46553,
       "population_data_2020": 51834,
       "household_population_2015": 46537,
@@ -1018,7 +1018,7 @@
    },
    {
       "barangay_name": "Santa Teresita",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 8377,
       "population_data_2020": 11776,
       "household_population_2015": 8342,
@@ -1027,7 +1027,7 @@
    },
    {
       "barangay_name": "Santo Cristo",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 10392,
       "population_data_2020": 25783,
       "household_population_2015": 10000,
@@ -1036,7 +1036,7 @@
    },
    {
       "barangay_name": "Santo Domingo",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 13989,
       "population_data_2020": 11476,
       "household_population_2015": 13973,
@@ -1045,7 +1045,7 @@
    },
    {
       "barangay_name": "Santo Ni\u00f1o",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 10278,
       "population_data_2020": 7070,
       "household_population_2015": 10278,
@@ -1054,7 +1054,7 @@
    },
    {
       "barangay_name": "Santol",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 7548,
       "population_data_2020": 6410,
       "household_population_2015": 7534,
@@ -1063,7 +1063,7 @@
    },
    {
       "barangay_name": "Sauyo",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 76039,
       "population_data_2020": 76289,
       "household_population_2015": 75955,
@@ -1072,7 +1072,7 @@
    },
    {
       "barangay_name": "Sienna",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 3383,
       "population_data_2020": 2072,
       "household_population_2015": 3383,
@@ -1081,7 +1081,7 @@
    },
    {
       "barangay_name": "Sikatuna Village",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 6996,
       "population_data_2020": 6121,
       "household_population_2015": 6945,
@@ -1090,7 +1090,7 @@
    },
    {
       "barangay_name": "Silangan",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 5036,
       "population_data_2020": 4831,
       "household_population_2015": 5011,
@@ -1099,7 +1099,7 @@
    },
    {
       "barangay_name": "Socorro",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 25073,
       "population_data_2020": 22227,
       "household_population_2015": 24816,
@@ -1108,7 +1108,7 @@
    },
    {
       "barangay_name": "South Triangle",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 15546,
       "population_data_2020": 14494,
       "household_population_2015": 15434,
@@ -1117,7 +1117,7 @@
    },
    {
       "barangay_name": "Tagumpay",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 2208,
       "population_data_2020": 2257,
       "household_population_2015": 2208,
@@ -1126,7 +1126,7 @@
    },
    {
       "barangay_name": "Talayan",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 5669,
       "population_data_2020": 4402,
       "household_population_2015": 5669,
@@ -1135,7 +1135,7 @@
    },
    {
       "barangay_name": "Talipapa",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 35077,
       "population_data_2020": 38949,
       "household_population_2015": 34961,
@@ -1144,7 +1144,7 @@
    },
    {
       "barangay_name": "Tandang Sora",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 90290,
       "population_data_2020": 83114,
       "household_population_2015": 90197,
@@ -1153,7 +1153,7 @@
    },
    {
       "barangay_name": "Tatalon",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 63129,
       "population_data_2020": 55404,
       "household_population_2015": 63094,
@@ -1162,7 +1162,7 @@
    },
    {
       "barangay_name": "Teachers Village East",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 3401,
       "population_data_2020": 2401,
       "household_population_2015": 3401,
@@ -1171,7 +1171,7 @@
    },
    {
       "barangay_name": "Teachers Village West",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 4270,
       "population_data_2020": 2986,
       "household_population_2015": 4250,
@@ -1180,7 +1180,7 @@
    },
    {
       "barangay_name": "U.P. Campus",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 45520,
       "population_data_2020": 47127,
       "household_population_2015": 44244,
@@ -1189,7 +1189,7 @@
    },
    {
       "barangay_name": "U.P. Village",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 5157,
       "population_data_2020": 3167,
       "household_population_2015": 5141,
@@ -1198,7 +1198,7 @@
    },
    {
       "barangay_name": "Ugong Norte",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 9953,
       "population_data_2020": 6301,
       "household_population_2015": 9953,
@@ -1207,7 +1207,7 @@
    },
    {
       "barangay_name": "Unang Sigaw",
-      "district_number": -1,
+      "district_number": 6,
       "population_data_2015": 7267,
       "population_data_2020": 6508,
       "household_population_2015": 7257,
@@ -1216,7 +1216,7 @@
    },
    {
       "barangay_name": "Valencia",
-      "district_number": -1,
+      "district_number": 4,
       "population_data_2015": 8547,
       "population_data_2020": 10900,
       "household_population_2015": 8529,
@@ -1225,7 +1225,7 @@
    },
    {
       "barangay_name": "Vasra",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 8867,
       "population_data_2020": 7345,
       "household_population_2015": 8839,
@@ -1234,7 +1234,7 @@
    },
    {
       "barangay_name": "Veterans Village",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 11520,
       "population_data_2020": 12755,
       "household_population_2015": 11463,
@@ -1243,7 +1243,7 @@
    },
    {
       "barangay_name": "Villa Maria Clara",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 2393,
       "population_data_2020": 2442,
       "household_population_2015": 2393,
@@ -1252,7 +1252,7 @@
    },
    {
       "barangay_name": "West Kamias",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 4918,
       "population_data_2020": 4055,
       "household_population_2015": 4849,
@@ -1261,7 +1261,7 @@
    },
    {
       "barangay_name": "West Triangle",
-      "district_number": -1,
+      "district_number": 1,
       "population_data_2015": 4199,
       "population_data_2020": 2431,
       "household_population_2015": 4187,
@@ -1270,7 +1270,7 @@
    },
    {
       "barangay_name": "White Plains",
-      "district_number": -1,
+      "district_number": 3,
       "population_data_2015": 4734,
       "population_data_2020": 3558,
       "household_population_2015": 4734,
