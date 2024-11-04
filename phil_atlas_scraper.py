@@ -2,6 +2,7 @@ from typing import TypeAlias
 from bs4 import BeautifulSoup, Tag, NavigableString
 import requests
 from requests import Response
+import json, csv
 
 FIELD_NAME: TypeAlias = str
 
@@ -137,11 +138,13 @@ class PhilAtlas:
         })
 
     def print_json(self) -> None:
-        import json
         print(json.dumps(self.barangays, indent=4))
 
+    def write_to_json(self) -> None:
+        with open('barangays.json', 'w') as jsonfile:
+            json.dump(self.barangays, jsonfile, indent=3)        
+
     def write_to_csv(self) -> None:
-        import csv
         with open('barangays.csv', 'w', newline='') as csvfile:
             fieldnames = self.barangays[0].keys()
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -154,4 +157,5 @@ if __name__ == '__main__':
     phil_atlas = PhilAtlas()
     phil_atlas.main()
     phil_atlas.print_json()
-    # phil_atlas.write_to_csv()
+    phil_atlas.write_to_json()
+    phil_atlas.write_to_csv()
