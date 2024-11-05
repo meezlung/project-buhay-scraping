@@ -2,7 +2,8 @@ from typing import TypeAlias
 from bs4 import BeautifulSoup, Tag, NavigableString
 import requests
 from requests import Response
-import json, csv
+import json
+import csv
 
 FIELD_NAME: TypeAlias = str
 
