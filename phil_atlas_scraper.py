@@ -76,6 +76,7 @@ class PhilAtlas:
                 if isinstance(barangay_demographics, Tag):
                     household_population_2015, household_count_2015, average_household_size_2015 = self.get_demographics_data(barangay_demographics)
                     self.append_all_data(barangay_name, district_number, population_data_2015, population_data_2020, household_population_2015, household_count_2015, average_household_size_2015)
+                    print(f"Successfully extracted data for {barangay_name}.")
 
                 else:
                     print("Demographics table not found or is not a valid tag.")
