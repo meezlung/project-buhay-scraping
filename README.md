@@ -16,7 +16,7 @@ The **phil_atlas_scraper.py** extracts the following information for each barang
 
 ### How the Scraper Works
 1. Scraping Barangay Districts from Wikipedia:
-   - The WikipediaBarangay class scrapes the Wikipedia page for the list of barangays in Quezon City and organizes them into a dictionary by district nunmber. The district numbers are essential because the PhilAtlas website does not provide them.
+   - The WikipediaBarangay class scrapes the Wikipedia page for the list of barangays in Quezon City and organizes them into a dictionary by district number. The district numbers are essential because the PhilAtlas website does not provide them.
    - You can find the Wikipedia page used [here](https://en.wikipedia.org/wiki/List_of_barangays_in_Quezon_City).   
 2. Scraping Barangay Data from PhilAtlas:
    - The PhilAtlas class scrapes the [PhilAtlas website](https://en.wikipedia.org/wiki/List_of_barangays_in_Quezon_City) for data on each barangay.
